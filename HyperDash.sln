@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HyperDash", "HyperDash.csproj", "{0F568362-1122-A6FA-95FB-164CC484FE69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HyperDash.Editor", "HyperDash.Editor.csproj", "{FC621C2A-F886-082B-F0F0-28CC6C37B12B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F568362-1122-A6FA-95FB-164CC484FE69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F568362-1122-A6FA-95FB-164CC484FE69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F568362-1122-A6FA-95FB-164CC484FE69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F568362-1122-A6FA-95FB-164CC484FE69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC621C2A-F886-082B-F0F0-28CC6C37B12B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC621C2A-F886-082B-F0F0-28CC6C37B12B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC621C2A-F886-082B-F0F0-28CC6C37B12B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC621C2A-F886-082B-F0F0-28CC6C37B12B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
